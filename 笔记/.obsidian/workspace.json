@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adc.md",
+                "file": "第13章 BP 和SP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adc"
+              "title": "第13章 BP 和SP"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adc.md",
+                "file": "第13章 BP 和SP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of adc"
+              "title": "Outline of 第13章 BP 和SP"
             }
           }
         ],
@@ -198,31 +198,31 @@
   },
   "active": "6698142c8e2b7898",
   "lastOpenFiles": [
+    "第10章ret_retf_call.md",
+    "第6章-第7章开始.md",
+    "iret.md",
+    "and和or运算符就是一个门.md",
+    "adc.md",
     "~~$汇编语言-第四版-王爽.pdf",
     "第13章 BP 和SP.md",
     "第12章.md",
-    "Pasted image 20250702100315.png",
-    "Pasted image 20250702093326.png",
-    "iret.md",
+    "Image/Pasted image 20250702100315.png",
+    "Image/Pasted image 20250702093326.png",
     "第2章-寄存器.md",
     "Image/Pasted image 20250701173139.png",
-    "adc.md",
     "常用markdown.md",
     "指令处理的数据有多长.md",
     "Untitled 1.md",
-    "第10章ret_retf_call.md",
     "中断向量表.md",
     "Untitled 2",
     "Untitled 1",
     "Untitled",
     "汇编语言-第四版-王爽.pdf",
     "Image/Pasted image 20250630104756.png",
-    "and和or运算符就是一个门.md",
     "实验5第4问.md",
     "实验5.md",
     "教材程序7.1推理错误.md",
     "第7章.md",
-    "第6章-第7章开始.md",
     "第5章结束.md",
     "第5章.md",
     "Image/Pasted image 20250630104626.png",
