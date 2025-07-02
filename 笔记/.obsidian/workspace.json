@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iret.md",
+                "file": "adc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iret"
+              "title": "adc"
             }
           },
           {
@@ -42,15 +42,14 @@
               "type": "markdown",
               "state": {
                 "file": "第13章 BP 和SP.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "第13章 BP 和SP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第13章 BP 和SP.md",
+                "file": "adc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 第13章 BP 和SP"
+              "title": "Outline of adc"
             }
           }
         ],
@@ -197,17 +196,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9df008d936b29238",
+  "active": "6698142c8e2b7898",
   "lastOpenFiles": [
-    "第2章-寄存器.md",
+    "~~$汇编语言-第四版-王爽.pdf",
     "第13章 BP 和SP.md",
     "第12章.md",
+    "Pasted image 20250702100315.png",
+    "Pasted image 20250702093326.png",
+    "iret.md",
+    "第2章-寄存器.md",
     "Image/Pasted image 20250701173139.png",
     "adc.md",
     "常用markdown.md",
     "指令处理的数据有多长.md",
-    "iret.md",
-    "~~$汇编语言-第四版-王爽.pdf",
     "Untitled 1.md",
     "第10章ret_retf_call.md",
     "中断向量表.md",
@@ -230,8 +231,6 @@
     "Image/Pasted image 20250630104313.png",
     "Pasted image 20250630104313.png",
     "Image/Pasted image 20250630104250.png",
-    "Pasted image 20250630104250.png",
-    "Image/Pasted image 20250630104201.png",
     "Image",
     "新建文件夹"
   ]
